@@ -3,7 +3,7 @@
 
 ##Questao 1####
 
-#Adicionar link
+# https://github.com/vinigoleirao/CursoR-vinigoleirao/blob/Lista_4_Vinicius_Santana/Lista_4_Vinicius_Silva_Santana.R
 
 ##Questao 2####
 
